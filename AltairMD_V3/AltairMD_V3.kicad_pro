@@ -120,7 +120,9 @@
       },
       "track_widths": [
         0.0,
+        0.8,
         1.5,
+        1.8,
         2.0,
         3.0
       ],
@@ -349,7 +351,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "AltairMD_V2.kicad_pro",
+    "filename": "AltairMD_V3.kicad_pro",
     "version": 1
   },
   "net_settings": {
